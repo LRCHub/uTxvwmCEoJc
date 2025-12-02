@@ -1,0 +1,72 @@
+{
+  "version": 1,
+  "base_track": "Don't get in my way",
+  "base_artist": "羊羊",
+  "createdAt": "2025-12-02T19:58:43.473706Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "Don't Get in My Way",
+      "artist": "Linx",
+      "has_synced": false,
+      "path": "select/01_Don't_Get_in_My_Way_Linx.txt"
+    },
+    {
+      "id": "lrclib_2",
+      "source": "lrclib",
+      "title": "Don't Get in My Way",
+      "artist": "Zack Hemsey",
+      "has_synced": false,
+      "path": "select/02_Don't_Get_in_My_Way_Zack_Hemsey.txt"
+    },
+    {
+      "id": "lrclib_3",
+      "source": "lrclib",
+      "title": "Don't Get in My Way",
+      "artist": "Zack Hemsey",
+      "has_synced": true,
+      "path": "select/03_Don't_Get_in_My_Way_Zack_Hemsey.lrc"
+    },
+    {
+      "id": "lrclib_4",
+      "source": "lrclib",
+      "title": "Don’t Get in My Way",
+      "artist": "King Los",
+      "has_synced": false,
+      "path": "select/04_Don’t_Get_in_My_Way_King_Los.txt"
+    },
+    {
+      "id": "lrclib_5",
+      "source": "lrclib",
+      "title": "Don't Get in My Way",
+      "artist": "Zack Hemsey",
+      "has_synced": true,
+      "path": "select/05_Don't_Get_in_My_Way_Zack_Hemsey.lrc"
+    },
+    {
+      "id": "lrclib_6",
+      "source": "lrclib",
+      "title": "Zack Hemsey - \"Don't Get In My Way\"",
+      "artist": "Zack Hemsey",
+      "has_synced": true,
+      "path": "select/06_Zack_Hemsey_-__Don't_Get_In_My_Way_Zack_Hemsey.lrc"
+    },
+    {
+      "id": "lrclib_7",
+      "source": "lrclib",
+      "title": "Don’t Get in My Way",
+      "artist": "Los feat. Royce da 5′9″ & Shanica Knowles",
+      "has_synced": false,
+      "path": "select/07_Don’t_Get_in_My_Way_Los_feat._Royce_da_5′9′′_&_Shanica_Knowles.txt"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "Don't get in my way",
+      "artist": "羊羊",
+      "has_synced": false,
+      "path": "select/pl_01_Don't_get_in_my_way_羊羊.txt"
+    }
+  ]
+}
